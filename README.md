@@ -1,5 +1,5 @@
 <h1>Trabalho 03 - Laboratório de programação</h1> 
-<p><b>Descrição : </b>vetor de bits para armazenar valores de 0 a 5000 utilizado, para o estudo da manipulação bit a bit. </p> 
+<p><b>Descrição : </b>vetor de bits para armazenar valores de 0 a 5000, utilizado para o estudo da manipulação bit a bit. </p> 
 
 <h2>Execução do programa: </h2>
 :writing_hand:<b>Pré-requisitos:</b> É necessária a utilização do compilador GCC.<br></br>
